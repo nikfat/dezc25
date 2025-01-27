@@ -76,3 +76,4 @@ Here are some additional resources to help you along the way:
 - [DataTalks.Club Slack Community](https://datatalks.club/slack.html)
 - [Medium Data Engineering Articles](https://medium.com/tag/data-engineering)
 - [Towards Data Science (Data Engineering)](https://towardsdatascience.com/tagged/data-engineering)
+---
