@@ -21,8 +21,8 @@ This repository contains:
 | Week | Topic                        | Status        |
 |------|------------------------------|---------------|
 | 1    | Docker, SQL and Terraform    | ✅ Completed  |
-| 2    | Workflow Orchestration           | 🚧 In Progress |
-| 3    | Data Warehousing              | ⏳ Upcoming |
+| 2    | Workflow Orchestration           | ✅ Completed  |
+| 3    | Data Warehousing              | 🚧 In Progress|
 | 4    | Analytics Engineering       | ⏳ Upcoming   |
 | 5    | Batch                       | ⏳ Upcoming   |
 | 6    | Streaming               | ⏳ Upcoming   |
@@ -38,9 +38,9 @@ Here is the schedule for homework and workshops:
 - **Homework 1**: Docker, SQL, and Terraform  
   **Deadline**: 28 Jan 2025 00:00 UTC  
 - **Homework 2**: Workflow Orchestration  
-  **Deadline**: 4 Feb 2025 00:00 UTC  
+  **Deadline**: 6 Feb 2025 00:00 UTC  
 - **Homework 3**: Data Warehousing  
-  **Deadline**: 18 Feb 2025 00:00 UTC  
+  **Deadline**: 13 Feb 2025 00:00 UTC  
 - **Homework 4**: Analytics Engineering  
   **Deadline**: 25 Feb 2025 00:00 UTC  
 - **Homework 5**: Batch Processing  
@@ -50,7 +50,7 @@ Here is the schedule for homework and workshops:
 
 ### Workshops
 - **Workshop 1**: Ingestion with `dlt`  
-  **Deadline**: 11 Feb 2025 00:00 UTC  
+  **Deadline**: 17 Feb 2025 00:00 UTC  
 
 ---
 
